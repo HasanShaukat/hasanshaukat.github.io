@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Hasan Shaukat  # Be used at blog posts' author.
   first_name: Hasan  # Be used at index page about me section.
   last_name: Shaukat  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/Hasan RCAI Photo.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: MrNewHorizons  # Leave blank if you don't have now
   linkedin_id: hasan-shaukat # Leave blank if you don't have now
   facebook_username: #jiakunnj  # Leave blank if you don't have now
