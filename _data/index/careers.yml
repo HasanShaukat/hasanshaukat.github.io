@@ -30,29 +30,29 @@
   
   - name:
     detail: TEXT
-    i18n: company_b
+    i18n: company_c
   desc:
     detail: Created data models for new projects, documented existing ETL processes and executed routine analytics and reporting
-    i18n: company_b_desc
+    i18n: company_c_desc
   date:
     detail: Oct. 2017
     i18n: company_c_date
   job:
     detail: Data Scientist
-    i18n: company_b_job
+    i18n: company_c_job
   icon: fa-plus-square
   
   
   - name:
     detail: CINDET
-    i18n: company_b
+    i18n: company_d
   desc:
     detail: Developed Ice Cream and Chocolate 3D Printing machines and managed startup operations and research
-    i18n: company_b_desc
+    i18n: company_d_desc
   date:
     detail: Jan. 2017
-    i18n: company_b_date
+    i18n: company_d_date
   job:
     detail: Startup Co-Founder
-    i18n: company_b_job
+    i18n: company_d_job
   icon: fa-plus-square
