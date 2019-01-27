@@ -1,18 +1,18 @@
 # links section data
 - last_name: Afaq
   first_name: Owais
-  desc: CTO, Mikaels Labs
+  desc: CTO, Mikaels Labs, Tallinn, Estonia
   website: https://www.mikaels.com
   email: owais.afaq@mikaels.com
 
 - last_name: Khurram
   first_name: Dr. Muhammad
-  desc: Director, Research Center for Artificial Intelligence
+  desc: Director, Research Center for Artificial Intelligence, Karachi, Pakistan
   website: http://www.rcai.pk
   email: mkhurram@neduet.edu.pk
 
-- last_name: Khimani
-  first_name: Salman
-  desc: Director Academic Operations, Habib University
-#  website: https://github.com
-  email: salman.khimani@habib.edu.pk
+- last_name: Lalani
+  first_name: Rahim
+  desc: Co-Founder, TRG, Washington, USA | CEO, TEXT, Karachi, Pakistan
+  website: http://www.trgworld.com
+  email: rahim.lalani@text.com.pk
