@@ -8,11 +8,11 @@
 - last_name: Khurram
   first_name: Dr. Muhammad
   desc: Director, Research Center for Artificial Intelligence
-  website: http://www.jarrekk.com/donate/
+  website: http://www.rcai.pk
   email: mkhurram@neduet.edu.pk
 
-#- last_name: LN
-#  first_name: FN
-#  desc: COO
+- last_name: Khimani
+  first_name: Salman
+  desc: Director Academic Operations, Habib University
 #  website: https://github.com
-#  email: coo@google.com
+  email: salman.khimani@habib.edu.pk
