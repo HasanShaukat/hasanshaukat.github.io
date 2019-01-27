@@ -16,16 +16,16 @@
 
 - name:
     detail: Innovative Solutions
-    i18n: company_b
+    i18n: #company_b
   desc:
     detail: Worked on a Reinforcement Learning based Chess Engine and Stock Predictions
-    i18n: company_b_desc
+    i18n: #company_b_desc
   date:
     detail: Feb. 2018
-    i18n: company_b_date
+    i18n: #company_b_date
   job:
     detail: A.I Researcher
-    i18n: company_b_job
+    i18n: #company_b_job
   icon: fa-plus-square
  
 #  - name:
