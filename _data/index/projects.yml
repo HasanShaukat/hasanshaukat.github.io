@@ -15,3 +15,30 @@
   img: #/static/assets/img/landing/python.png
   desc: Predicting which bank will fail in the coming quarter, based on it's history.
 
+- name: StackOverflow Tags Prediction with linear models
+  i18n: #cpython
+  gh_user: #python
+  repo: natural-language-processing/blob/master/week1/week1-MultilabelClassification-solved.ipynb
+  img: #/static/assets/img/landing/python.png
+  desc: Trained a Bag Of Words model and Tf-Idf model for predicting tags for any question posted on Stackoverflow.
+  
+  - name: Car detection with YOLOv2
+  #i18n: #cpython
+  #gh_user: #python
+  #repo: natural-language-processing/blob/master/week1/week1-MultilabelClassification-solved.ipynb
+  #img: #/static/assets/img/landing/python.png
+  desc: Build a YOLO algorithm to detect cars in an input image.
+  
+  - name: Art Generation with Neural Style Transfer
+  #i18n: #cpython
+  #gh_user: #python
+  #repo: natural-language-processing/blob/master/week1/week1-MultilabelClassification-solved.ipynb
+  #img: #/static/assets/img/landing/python.png
+  desc: Mapped a pattern onto an image with a controlled mixing strength using a Convolutional Neural Network.
+  
+  - name: Face Recognition with Neural Networks
+  #i18n: #cpython
+  #gh_user: #python
+  #repo: natural-language-processing/blob/master/week1/week1-MultilabelClassification-solved.ipynb
+  #img: #/static/assets/img/landing/python.png
+  desc: Built a face recognition system for a small group of people in an office, allowing them access to the front door of their office.
