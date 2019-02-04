@@ -24,10 +24,10 @@ author:  # change following line to your infomation.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
-    - name: fa-linux
+    - name: fa-python
   skill_icon2:
     - name: fa-linux
-    - name: icon-apache
+    - name: icon-python
   desc: I am a Machine Learning Engineer, an Entrepreneur, an Electronics Engineer and the 5th position holder from NED University of Engineering and Technology, Karachi, Pakistan. Currently I am working as a Data Scientist at Mikaels Labs.  # Describe yourself.
 
 # comment
