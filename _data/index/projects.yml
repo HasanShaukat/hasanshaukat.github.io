@@ -18,7 +18,7 @@
 - name: StackOverflow Tags Prediction with linear models
   i18n: #cpython
   gh_user: HasanShaukat
-  repo: natural-language-processing/blob/master/week1/week1-MultilabelClassification-solved.ipynb
+  repo: natural-language-processing
   img: #/static/assets/img/landing/python.png
   desc: Trained a Bag Of Words model and Tf-Idf model for predicting tags for any question posted on Stackoverflow.
   
