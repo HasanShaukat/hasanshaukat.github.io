@@ -7,3 +7,20 @@
 
 - src: landing/header_two.jpg
   title: second banner image
+  
+- src: landing/header_three.jpg
+  title: third banner image
+  
+- src: landing/header_four.jpg
+  title: fourth banner image
+  
+- src: landing/header_five.jpg
+  title: fifth banner image
+
+- src: landing/header_six.jpg
+  title: sixth banner image
+  
+- src: landing/header_seven.jpg
+  title: seventh banner image
+
+         
