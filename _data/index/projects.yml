@@ -16,6 +16,13 @@
   img: /static/assets/img/landing/bank-failure.jpg
   desc: Predicting which bank will fail in the coming quarter, based on it's history.
 
+- name: Algorithmic Forex Trading
+  i18n: #cpython
+  gh_user: HasanShaukat
+  repo: #cpython
+  img: /static/assets/img/landing/forex.jpg
+  desc: Predicting price changes from historical data using neural networks and trading currencies using various strategies.
+
 - name: StackOverflow Tags Prediction with linear models
   i18n: #cpython
   gh_user: HasanShaukat
