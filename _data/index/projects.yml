@@ -34,7 +34,7 @@
   i18n: #cpython
   gh_user: HasanShaukat
   repo: #natural-language-processing/blob/master/week1/week1-MultilabelClassification-solved.ipynb
-  img: /static/assets/img/landing/art-generation.png
+  img: /static/assets/img/landing/art-generation.jpg
   desc: Mapped a pattern onto an image with a controlled mixing strength using a Convolutional Neural Network.
   
 - name: Face Recognition with Neural Networks
@@ -63,7 +63,7 @@
   i18n: #cpython
   gh_user: HasanShaukat
   repo: natural-language-processing
-  img: #/static/assets/img/landing/python.png
+  img: /static/assets/img/landing/chatbot.jpg
   desc: Built a conversational chatbot which assists wich search in StackOverflow.
   
 
