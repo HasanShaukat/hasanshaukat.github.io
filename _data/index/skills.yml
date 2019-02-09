@@ -2,5 +2,13 @@
 
 label: Ability
 id : cs
-aspects: Pandas, Numpy, Keras, Tensorflow, Python, Reinforcement Learning, Natural Language Processing, NLTK, LightGBM
-percentage: 80, 85, 75, 70, 75, 70, 65, 60, 55
+aspects: Pandas,
+ Numpy, 
+ Keras, 
+ Tensorflow,
+ Python, 
+ Reinforcement Learning, 
+ Natural Language Processing, 
+ NLTK
+ 
+percentage: 90, 85, 80, 85, 85, 70, 90, 80
