@@ -4,17 +4,17 @@ label: Ability
 id : cs
 aspects: Data Engineering,
     Natural Language Processing,
+    Computer Vision,
     Reinforcement Learning,
     Predictive Analytics,
     Containorized Development,
-    Cloud Servers Computations,
     Realtime Data Analytics
 
  
 percentage: 75, 
-    80, 
+    80,
+    75,
     70, 
     75, 
     75, 
-    70, 
     70
