@@ -17,17 +17,17 @@ aspects: Python,
     MySQL,
     MongoDB
  
-percentage: 80, # Python
-    75, # Data Engineering
-    80, # Natural Language Processing
-    75, #
-    70, #
-    75, #
-    70, #
-    80, #
-    80, #
-    75, #
-    70, #
-    75, #
-    75, #
-    70  #
+percentage: 80,
+    75, 
+    80,
+    75,
+    70, 
+    75, 
+    70,
+    80,
+    80,
+    75,
+    70,
+    75,
+    75,
+    70
