@@ -2,30 +2,33 @@
 
 label: Ability
 id : cs
-aspects: Data Engineering,
+aspects: Python,
+    Data Engineering,
     Natural Language Processing,
     Computer Vision,
     Reinforcement Learning,
-    Predictions,
-    Containors,
+    ML Predictions,
     Live Analytics,
     Numpy,
     Pandas,
     Tensorflow,
     Docker,
     Flask,
-    Python
+    MySQL,
+    MongoDB
  
-percentage: 75, 
+percentage: 80,
+    75, 
     80,
     75,
     70, 
     75, 
-    75, 
     70,
     80,
     80,
     75,
     70,
     75,
-    80
+    80,
+    75,
+    70
