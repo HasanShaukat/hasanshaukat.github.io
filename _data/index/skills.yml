@@ -8,11 +8,10 @@ aspects: Pandas,
  Tensorflow,
  Python, 
  Reinforcement Learning, 
- Natural Language Processing, 
- NLTK
+ NLP, 
  Flask
  Docker
  Parellel Processing
  Large Data Processing
  
-percentage: 90, 85, 80, 85, 85, 70, 80, 80, 75,70,65,70
+percentage: 90, 85, 80, 85, 85, 70, 80, 75,70,65,70
