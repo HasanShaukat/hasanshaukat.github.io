@@ -8,8 +8,13 @@ aspects: Data Engineering,
     Reinforcement Learning,
     Predictions,
     Containors,
-    Live Analytics
-
+    Live Analytics,
+    Numpy,
+    Pandas,
+    Tensorflow,
+    Docker,
+    Flask,
+    Python
  
 percentage: 75, 
     80,
@@ -17,4 +22,10 @@ percentage: 75,
     70, 
     75, 
     75, 
-    70
+    70,
+    80,
+    80,
+    75,
+    70,
+    75,
+    80
