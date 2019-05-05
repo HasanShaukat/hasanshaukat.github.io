@@ -3,8 +3,7 @@
 label: Ability
 id : cs
 aspects: Pandas,
- Numpy, 
- Keras, 
+ Numpy,
  Tensorflow,
  Python, 
  Reinforcement Learning, 
@@ -14,4 +13,4 @@ aspects: Pandas,
  Parellel Processing
  Large Data Processing
  
-percentage: 90, 85, 80, 85, 85, 70, 80, 75,70,65,70
+percentage: 90, 85, 85, 85, 70, 80, 75,70,65,70
