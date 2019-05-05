@@ -2,15 +2,8 @@
 
 label: Ability
 id : cs
-aspects: Pandas,
- Numpy,
- Tensorflow,
- Python, 
- Reinforcement Learning, 
- NLP, 
- Flask
- Docker
- Parellel Processing
- Large Data Processing
+aspects: MySQL,
+    MongoDB
  
-percentage: 90, 85, 85, 85, 70, 80, 75,70,65,70
+percentage: 80,
+    75
