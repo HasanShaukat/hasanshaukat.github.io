@@ -14,7 +14,7 @@
         <div class="col-lg-1"></div>
         <script>
         var ctx = document.getElementById("{{ site.data.index.skillsDomain.id }}");
-		var ctx2 = document.getElementById("{{ site.data.index.skillsDB.id }}");
+		
         var data = {
             labels: "{{ site.data.index.skillsDomain.aspects }}".split(","),
             datasets: [{
@@ -28,19 +28,7 @@
                 data: [{{ site.data.index.skillsDomain.percentage }}]
                 }]
         };
-		var data2 = {
-            labels: "{{ site.data.index.skillsDB.aspects }}".split(","),
-            datasets: [{
-                label: "{{ site.data.index.skillsDB.label }}",
-                backgroundColor: "rgba(179,181,198,0.2)",
-                borderColor: "#3385FF",
-                pointBackgroundColor: "#3385FF",
-                pointBorderColor: "#fff",
-                pointHoverBackgroundColor: "#3385FF",
-                pointHoverBorderColor: "#3385FF",
-                data: [{{ site.data.index.skillsDB.percentage }}]
-                }]
-        };
+		
         var myRadarChart = new Chart(ctx, {
             type: 'radar',
             data: data,
@@ -54,7 +42,32 @@
                 legend: {display: false},
             }
         });
-		var myRadarChart2 = new Chart(ctx2, {
+		
+        </script>
+    </div>
+	
+	<div class="row features-block">
+	<h2><span data-i18n="skills.my_skills">Databases</span></h2>
+        <div class="wow zoomIn col-lg-6 col-lg-offset-3">
+            <canvas id="{{ site.data.index.skillsDB.id }}" height="500" width="700"></canvas>
+        </div>
+        <div class="col-lg-1"></div>
+        <script>
+        var ctx2 = document.getElementById("{{ site.data.index.skillsDB.id }}");
+        var data2 = {
+            labels: "{{ site.data.index.skillsDB.aspects }}".split(","),
+            datasets: [{
+                label: "{{ site.data.index.skillsDB.label }}",
+                backgroundColor: "rgba(179,181,198,0.2)",
+                borderColor: "#3385FF",
+                pointBackgroundColor: "#3385FF",
+                pointBorderColor: "#fff",
+                pointHoverBackgroundColor: "#3385FF",
+                pointHoverBorderColor: "#3385FF",
+                data: [{{ site.data.index.skillsDB.percentage }}]
+                }]
+        };
+        var myRadarChart2 = new Chart(ctx2, {
             type: 'radar',
             data: data2,
             options: {
@@ -67,19 +80,6 @@
                 legend: {display: false},
             }
         });
-        </script>
-    </div>
-	
-	<div class="row features-block">
-	<h2><span data-i18n="skills.my_skills">Databases</span></h2>
-        <div class="wow zoomIn col-lg-6 col-lg-offset-3">
-            <canvas id="{{ site.data.index.skillsDB.id }}" height="500" width="700"></canvas>
-        </div>
-        <div class="col-lg-1"></div>
-        <script>
-        
-        
-        
         </script>
     </div>
 	
