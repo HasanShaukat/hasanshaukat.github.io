@@ -1,0 +1,14 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Data Engineering,
+Natural Language Processing,
+Reinforcement Learning,
+Predictive Analytics,
+Containorized Development,
+Cloud Servers Computations,
+Realtime Data Analytics
+
+ 
+percentage: 75, 80, 70, 75, 75, 70, 70
