@@ -48,8 +48,8 @@
         </div>
         <div class="col-lg-1"></div>
         <script>
-        var ctx = document.getElementById("{{ site.data.index.skillsDB.id }}");
-        var data = {
+        var ctx2 = document.getElementById("{{ site.data.index.skillsDB.id }}");
+        var data2 = {
             labels: "{{ site.data.index.skillsDB.aspects }}".split(","),
             datasets: [{
                 label: "{{ site.data.index.skillsDB.label }}",
@@ -62,7 +62,7 @@
                 data: [{{ site.data.index.skillsDB.percentage }}]
                 }]
         };
-        var myRadarChart = new Chart(ctx, {
+        var myRadarChart2 = new Chart(ctx, {
             type: 'radar',
             data: data,
             options: {
