@@ -7,7 +7,7 @@
   gh_user: #HasanShaukat
   repo: #lczero-training
   img: /static/assets/img/landing/chatcreate-logo.png
-  desc: A chess engine which improves it's behaviour by playing with itself.
+  desc: Developed machine learning backend for automatic chatbot creation and training for users
 
 
 - name: Reinforcement Learning based Chess Engine

@@ -14,6 +14,7 @@
         <div class="col-lg-1"></div>
         <script>
         var ctx = document.getElementById("{{ site.data.index.skillsDomain.id }}");
+		var ctx2 = document.getElementById("{{ site.data.index.skillsDB.id }}");
         var data = {
             labels: "{{ site.data.index.skillsDomain.aspects }}".split(","),
             datasets: [{
@@ -27,9 +28,35 @@
                 data: [{{ site.data.index.skillsDomain.percentage }}]
                 }]
         };
+		var data2 = {
+            labels: "{{ site.data.index.skillsDB.aspects }}".split(","),
+            datasets: [{
+                label: "{{ site.data.index.skillsDB.label }}",
+                backgroundColor: "rgba(179,181,198,0.2)",
+                borderColor: "#3385FF",
+                pointBackgroundColor: "#3385FF",
+                pointBorderColor: "#fff",
+                pointHoverBackgroundColor: "#3385FF",
+                pointHoverBorderColor: "#3385FF",
+                data: [{{ site.data.index.skillsDB.percentage }}]
+                }]
+        };
         var myRadarChart = new Chart(ctx, {
             type: 'radar',
             data: data,
+            options: {
+                scale: {
+                    responsive: true,
+                    ticks: {min: 0, max: 100},
+                    lineArc: false,
+                    pointLabels: {fontSize: 14},
+                },
+                legend: {display: false},
+            }
+        });
+		var myRadarChart2 = new Chart(ctx2, {
+            type: 'radar',
+            data: data2,
             options: {
                 scale: {
                     responsive: true,
@@ -50,33 +77,9 @@
         </div>
         <div class="col-lg-1"></div>
         <script>
-        var ctx2 = document.getElementById("{{ site.data.index.skillsDB.id }}");
-        var data2 = {
-            labels: "{{ site.data.index.skillsDB.aspects }}".split(","),
-            datasets: [{
-                label: "{{ site.data.index.skillsDB.label }}",
-                backgroundColor: "rgba(179,181,198,0.2)",
-                borderColor: "#3385FF",
-                pointBackgroundColor: "#3385FF",
-                pointBorderColor: "#fff",
-                pointHoverBackgroundColor: "#3385FF",
-                pointHoverBorderColor: "#3385FF",
-                data: [{{ site.data.index.skillsDB.percentage }}]
-                }]
-        };
-        var myRadarChart2 = new Chart(ctx, {
-            type: 'radar',
-            data: data,
-            options: {
-                scale: {
-                    responsive: true,
-                    ticks: {min: 0, max: 100},
-                    lineArc: false,
-                    pointLabels: {fontSize: 14},
-                },
-                legend: {display: false},
-            }
-        });
+        
+        
+        
         </script>
     </div>
 	
