@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-ubuntu
     - name: icon-hadoop
-  desc: I am a Machine Learning Engineer, an Entrepreneur, an Electronics Engineer and the 5th position holder from NED University of Engineering and Technology, Karachi, Pakistan. Currently I am working as a Data Scientist at Mikaels Labs.  # Describe yourself.
+  desc: I'm Hasan Shaukat. I was born in Karachi. I'm a Data Scientist with experience in natural language processing, reinforcement learning, mathematical modelling and embedded systems.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -52,7 +52,7 @@ donation: off  # type 'on'/'off' to choice display donation button at post page 
 
 ## carousels
 index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+blog_carousel: off  # blog page carousel switch
 
 # scss
 sass:
