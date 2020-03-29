@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-ubuntu
     - name: icon-hadoop
-  desc: I'm Hasan Shaukat. I was born in Karachi. I'm a Data Scientist with experience in natural language processing, reinforcement learning, mathematical modelling and embedded systems.
+  desc: A Data Scientist with experience in marketing analytics, natural language processing, reinforcement learning, mathematical modelling and embedded systems.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
