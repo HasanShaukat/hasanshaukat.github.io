@@ -17,7 +17,7 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: HasanShaukat  # Leave blank if you don't have now
   linkedin_id: hasan-shaukat # Leave blank if you don't have now
-  facebook_username: #jiakunnj  # Leave blank if you don't have now
+  facebook_username: hasanshaukat.py  # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
   email: hasan.shaukat.ds@gmail.com  # Leave blank if you don't have now
   cv: #http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-ubuntu
     - name: icon-hadoop
-  desc: A Data Scientist with experience in marketing analytics, natural language processing, reinforcement learning, mathematical modelling and embedded systems.
+  desc: Data Scientist with a broad set of analytical and technical skills in different sectors and roles. Having a progressive 3+ years of industry experience, can work with Software, Consulting, Finance and Public organizations, performing well in competitive environments. Have provided data analytics services to corporate executives, helped ML developers, developed machine learning APIs on the Cloud, deep-dived consumer behavioral data and provided business insights to marketing and management teams.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
