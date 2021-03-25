@@ -81,10 +81,10 @@
 #  img: /static/assets/img/landing/chatbot.jpg
 #  desc: Built a conversational chatbot which assists wich search in StackOverflow.
   
-#- name: Weather Chatbot
-#  i18n: #cpython
-#  gh_user: HasanShaukat
-#  repo: weather-chatbot
-#  img: /static/assets/img/landing/chatbot.jpg
-#  desc: A chatbot which will ask you of a city and will tell the accurate weather of that city.
+- name: Weather Chatbot
+  i18n: #cpython
+  gh_user: HasanShaukat
+  repo: weather-chatbot
+  img: /static/assets/img/landing/chatbot.jpg
+  desc: A chatbot which will ask you of a city and will tell the accurate weather of that city.
 
